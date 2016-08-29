@@ -1,0 +1,4 @@
+1: Introduction
+In the last mission, we explored the basics of git version control. In this project, we'll walk you through how to setup git on your own machine and authenticate with Github. Then, you'll be able to keep the changes you make to data science projects locally synced with Github. Finally, when you're ready, you'll be able to publish your code to Github and build your portfolio of projects for others to see.
+
+Debugging your installation is outside the scope of this project unfortunately since there can be many potential reasons for the failure. Whenever you encounter an error in any of the installation steps, use Google and StackOverflow to attempt to debug and fix the issue. If you're still having difficulty, post in the Dataquest
